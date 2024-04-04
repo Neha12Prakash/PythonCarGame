@@ -1,0 +1,14 @@
+Long route = 87
+Truck crossing = 62
+Pedestrian crossing = 44
+Slippery route = 5
+Non slippery route = 6
+Loose gravel route = 1
+Route under construction = 5
+Route with lane visibility = 26
+Route with no lane visibility = 5
+Icy road = 4
+Animal crossing = 5
+Play street = 1
+School zone = 26
+Hospital zone = 69

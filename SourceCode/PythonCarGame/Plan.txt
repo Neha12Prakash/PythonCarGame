@@ -1,0 +1,31 @@
+
+********************************************************************************
+Trust based HTN Planning for Automated Vehicles 
+********************************************************************************
+
+The path taken is: 
+Osterreichischer_Platz. Pursuits. Gewerschaftshaus. Stuttgart_hbf. Staatsgalerie. 
+
+Time taken to generate the plan: 0.0 s
+
+The respective route: 
+Long route. Pedestrian crossing. Route under construction. Route with lane visibility. 
+
+The average trust value of the route is: 90%
+
+Generated Plan: 
+('start_up', 'car', 'Osterreichischer_Platz')
+('accelerate_on_lane', 'car', 'Osterreichischer_Platz')
+('reach', 'car', 'Pursuits')
+('start_up', 'car', 'Pursuits')
+('accelerate_on_lane', 'car', 'Pursuits')
+('dodge_pedestrian', 'car')
+('continue_acceleration', 'car', 'Gewerschaftshaus')
+('reach', 'car', 'Gewerschaftshaus')
+('start_up', 'car', 'Gewerschaftshaus')
+('activate_esp', 'car')
+('accelerate_on_lane', 'car', 'Gewerschaftshaus')
+('reach', 'car', 'Stuttgart_hbf')
+('start_up', 'car', 'Stuttgart_hbf')
+('accelerate_on_lane', 'car', 'Stuttgart_hbf')
+('reach', 'car', 'Staatsgalerie')
